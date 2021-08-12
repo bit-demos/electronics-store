@@ -18,7 +18,7 @@ bvm install
 Create an empty workspace. (skip this step if you want to import the components into an already created workspace)
 
 ```bash
-bit new react stores --empty
+bit new react electronics-store --empty
 ```
 
 Use the `bit import` command to import all components into your workspace. This is similar to cloning a project.
