@@ -11,7 +11,7 @@
 {
     "apps/electronics-store": {
         "scope": "learn-bit-react.electronics-store",
-        "version": "1.0.10",
+        "version": "1.0.11",
         "mainFile": "index.ts",
         "rootDir": "electronics-store/apps/electronics-store"
     },
@@ -22,8 +22,8 @@
         "rootDir": "electronics-store/entity/headphones"
     },
     "readme": {
-        "scope": "",
-        "version": "",
+        "scope": "learn-bit-react.electronics-store",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "readme"
     },
