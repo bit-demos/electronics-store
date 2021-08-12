@@ -6,7 +6,7 @@ Electronics Store is made up of components from the base ui scope and the ecomme
 
 Explore components for the [electronics-store](https://bit.dev/learn-bit-react/electronics-store)
 
-<img width="1785" alt="CleanShot 2021-08-10 at 20 34 06@2x" src="https://user-images.githubusercontent.com/13063165/128926384-554ebf1a-f80a-48e5-bef9-b4c3bc835149.png">
+<img width="1792" alt="CleanShot 2021-08-13 at 00 16 03@2x" src="https://user-images.githubusercontent.com/13063165/129276980-43b0f5df-0d18-4c75-ac36-48c0351bc2eb.png">
 
 If you would like to import(clone) the project to take it for a test run make sure you have [bit installed](https://harmony-docs.bit.dev/getting-started/installing-bit).
 
