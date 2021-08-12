@@ -1,0 +1,27 @@
+.colors {
+  --primary-color: #f5eadb;
+  --secondary-color: #083d77;
+  --tertiary-color: #da4167;
+  --complimentary-color: #2e4057;
+  --text-color: #2e4057;
+}
+
+body[data-theme='light'] .colors {
+  --background-color: white;
+  --primary-color: #f5eadb;
+  --secondary-color: #083d77;
+  --tertiary-color: #da4167;
+  --complimentary-color: #2e4057;
+  --text-color: #2e4057;
+}
+
+body[data-theme='dark'] .colors {
+  --background-color: #191716;
+  --primary-color: #083d77;
+  --secondary-color: #f5eadb;
+
+  background-color: var(--background-color);
+  .content {
+    color: #fff;
+  }
+}
